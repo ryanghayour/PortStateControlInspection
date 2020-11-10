@@ -1,0 +1,1 @@
+There would typically be multiple files and folders within this folder with google cloud sdk information, contact admin for this.
